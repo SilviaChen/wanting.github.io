@@ -13,12 +13,13 @@ I graduated from National Taipei University of Technology with master degree in 
 Raised in a family of electrical engineers, I used to implement multiple embedded system projects in **C** and **Python** on Linux for IoT area. 
 I'd been a software engineer in manufacturing industry almost 4 years. In last job, I mainly wrote python code, **Dockerfile** and groovy scripts on **Jenkins** for developing. 
 
-Recently, I switch to research/web application industry. Love and believe the sentence "Technical provides convenient". I love to implement exciting products for all human-beings!  
+Recently, I switch to research/web application industry. Love and believe the sentence "Technical provides convenient". I love to implement exciting products for all human beings!  
+
+You can see my work experiences on [LinkedIn](https://www.linkedin.com/in/silviachen825/), more photos of my UK life on 
+[Instagram](https://www.instagram.com/w.t_schen/) and murmur on [Twitter](https://twitter.com/WantingChen6).
 
 ![@Poplar, in May 2021]({{ page.image | relative_url }})
 
 
 
-You can see my work experiences on [LinkedIn](https://www.linkedin.com/in/silviachen825/), more photos of my UK life on 
-[Instagram](https://www.instagram.com/w.t_schen/) and murmur on [Twitter](https://twitter.com/WantingChen6).
 
