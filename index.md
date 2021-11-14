@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-image: {{site.baseurl}}/assets/images/2021-11-14-selfie.JPG
+image: https://wanting82.github.io/assets/images/2021-11-14-selfie.JPG
 ---
 
 # Hi there,
