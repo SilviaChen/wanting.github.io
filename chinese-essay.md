@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 偶爾發神經的隨筆
 ---
 
 <p class="message">
