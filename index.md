@@ -1,6 +1,26 @@
 ---
 layout: default
 title: Home
+image: /assets/images/2021-11-14-selfie.JPG
 ---
 
-My name is Wan-Ting Chen, came from Taiwan and live in East London.
+# Hi there,
+
+My name is Wan-Ting a.k.a Silvia, a python developer came from Taiwan and live in East London.
+
+I graduated from National Taipei University of Technology with master degree in Electronic Engineering and from Tamkang University with bachelor degree in Computer Science and Information Engineering. 
+
+Raised in a family of electrical engineers, I used to implement multiple embedded system projects in **C** and **Python** on Linux for IoT area. 
+I'd been a software engineer in manufacturing industry almost 4 years. In last job, I mainly wrote python code for multiple projects which can categorized into two types. 
+One is web application, it is a TCMS(Test case management system) used in Django, another is for rack-mount server firmware installation and component check. 
+I also developed internal tools named **RPM** packages and wrote groovy scripts on **Jenkins** pipeline for CI/CD, built up **Docker** container for microservices and write **Ansible-playbook** for deploying tasks to different server. 
+
+Recently, I switch to research/web application industry. Love and believe the sentence "Technical provides convenient". I love to implement exciting products for all human-beings!  
+
+![@Poplar, in May, 2021]({{ page.image | relative_url}}){:height="300""}
+
+
+
+You can see my work experiences on [LinkedIn](https://www.linkedin.com/in/silviachen825/), more photos of my UK life on 
+[Instagram](https://www.instagram.com/w.t_schen/) and murmur on [Twitter](https://twitter.com/WantingChen6).
+
