@@ -17,7 +17,7 @@ I also developed internal tools named **RPM** packages and wrote groovy scripts 
 
 Recently, I switch to research/web application industry. Love and believe the sentence "Technical provides convenient". I love to implement exciting products for all human-beings!  
 
-![@Poplar, in May, 2021]({{ page.image }}){:height="300""}
+![@Poplar, in May, 2021](/assets/images/2021-11-14-selfie.JPG){:height="300""}
 
 
 
