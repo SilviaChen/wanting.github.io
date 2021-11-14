@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Home
-image: /assets/images/2021-11-14-selfie.JPG
+image: {{site.baseurl}}/assets/images/2021-11-14-selfie.JPG
 ---
 
 # Hi there,
 
-My name is Wan-Ting a.k.a Silvia, a python developer came from Taiwan and live in East London.
+My name is Wan-Ting a.k.a. Silvia, a python developer came from Taiwan and live in East London.
 
 I graduated from National Taipei University of Technology with master degree in Electronic Engineering and from Tamkang University with bachelor degree in Computer Science and Information Engineering. 
 
@@ -17,7 +17,7 @@ I also developed internal tools named **RPM** packages and wrote groovy scripts 
 
 Recently, I switch to research/web application industry. Love and believe the sentence "Technical provides convenient". I love to implement exciting products for all human-beings!  
 
-![@Poplar, in May 2021](/assets/images/2021-11-14-selfie.JPG){:height="300""}
+![@Poplar, in May 2021]({{ post.image }}){:height="300""}
 
 
 
