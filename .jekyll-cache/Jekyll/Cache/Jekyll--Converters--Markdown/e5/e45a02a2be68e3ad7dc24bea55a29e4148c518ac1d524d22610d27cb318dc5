@@ -1,0 +1,28 @@
+I"�<ol>
+  <li>
+    <p>Add A step for Tap Result in groovy script</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> stage(“Publish TAP results”){
+     step([$class: “TapPublisher”, testResults: “*.tap”])
+ }
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Automatically generate related options at Sidebar Link
+<img src="/assets/images/side_bar.png" alt="Sidebar Link" /></p>
+  </li>
+  <li>
+    <p>Result</p>
+    <ol>
+      <li>
+        <p>TAP result #1
+ <img src="/assets/images/tap_1.jpeg" alt="TAP result #1" /></p>
+      </li>
+      <li>
+        <p>TAP result #2
+ <img src="/assets/images/tap_2.png" alt="TAP result #2" /></p>
+      </li>
+    </ol>
+  </li>
+</ol>
+:ET

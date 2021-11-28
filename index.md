@@ -15,8 +15,6 @@ I'd been a software engineer in manufacturing industry almost 4 years. In last j
 
 Recently, I switch to research/web application industry. Love and believe the sentence "Technical provides convenient". I love to implement exciting products for all human beings!  
 
-You can see my work experiences on [LinkedIn](https://www.linkedin.com/in/silviachen825/), more photos of my UK life on 
-[Instagram](https://www.instagram.com/w.t_schen/) and murmur on [Twitter](https://twitter.com/WantingChen6).
 
 ![@Poplar, in May 2021]({{ page.image | relative_url }})
 

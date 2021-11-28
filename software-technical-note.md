@@ -3,12 +3,4 @@ layout: page
 title: Software Technical Note
 ---
 
-
-還沒有產出~
-
-(⁰▿⁰)
-
-
-Example
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* [TAP plugin in Jenkins pipeline]({% link _posts/2020-05-08-tap-plugin-in-jenkins-pipeline.md %}) (08/05/2020)
