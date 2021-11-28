@@ -18,11 +18,15 @@ author:
 
 paginate:         5
 
+# Social media links in footer
+instagram: "w.t_schen"
+email: "silviachen.825@gmail.com"
+linkedin: "silviachen825"
+github: "wanting82"
+
+
 # Custom vars
 version:          1.0.0
-
-github:
-  repo:           https://github.com/poole/hyde
 
 plugins:
   - jekyll-paginate
