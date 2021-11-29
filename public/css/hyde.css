@@ -280,7 +280,8 @@ a.sidebar-nav-item:focus {
           transform: rotate(360deg);
 }
 
-.rounded-social-buttons
+.rounded-social-buttons,
+.fa-link,
 .fa-linkedin,
 .fa-github,
 .fa-instagram,
@@ -320,11 +321,11 @@ a.sidebar-nav-item:focus {
 }
 
 .rounded-social-buttons .social-button.email {
-  background: #60c17d;
+  background: #ea4335;
 }
 
 .rounded-social-buttons .social-button.email:hover, .rounded-social-buttons .social-button.email:focus {
-  color: #60c17d;
+  color: #ea4335;
   background: #fefefe;
   border-color: #000000;
 }
