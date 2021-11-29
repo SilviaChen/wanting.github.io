@@ -258,8 +258,8 @@ a.sidebar-nav-item:focus {
   display: inline-block;
   position: relative;
   cursor: pointer;
-  width: 2.125rem;
-  height: 2.125rem;
+  width: 2.5rem;
+  height: 2.5rem;
   border: 0.125rem solid transparent;
   padding: 0;
   text-decoration: none;
@@ -267,7 +267,7 @@ a.sidebar-nav-item:focus {
   color: #fefefe;
   font-size: 1.5625rem;
   font-weight: normal;
-  line-height: 1.5em;
+  line-height: 1.315em;
   border-radius: 1.6875rem;
   transition: all 0.5s ease;
   margin-right: 0.25rem;
@@ -327,4 +327,21 @@ a.sidebar-nav-item:focus {
   color: #60c17d;
   background: #fefefe;
   border-color: #000000;
+}
+
+/* Footer */
+footer {
+    clear: both;
+    margin-top: 2em;
+}
+
+/* Footer navigation links */
+.links a {
+    margin-right: 1em;
+}
+
+/* Footer copyrights */
+.copy {
+    color: #aaa;
+    text-align: center;
 }
