@@ -46,7 +46,6 @@ then you will get 'pydiction' directory
 # vim ~/.vimrc
 ```
 
-I typed this following lines:
 
 ## 2. Python IDE
 
