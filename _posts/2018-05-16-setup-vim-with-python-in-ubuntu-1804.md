@@ -40,7 +40,7 @@ I referred some blogger articles to setup my vim for python, and this is just a 
 then you will get 'pydiction' directory
 
 #### Configure vimrc(1/2)
-> The '~/.vimrc' is a new file, not a default, you can refer other cofiguratiion to customize your vim:
+> The '~/.vimrc' is a new file, not a default, you can refer other configuration to customize your vim:
  
 ```angular2html
 # cp /usr/share/vim/vim80/vimrc_example.vim ~/.vimrc
