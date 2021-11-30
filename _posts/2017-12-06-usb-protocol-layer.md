@@ -24,7 +24,7 @@ ps: packet是usb傳輸的最小單位
 
 
 ![USB Transaction](/assets/images/usb_trascation_2.jpg)
-*pic: http://www.techdesignforums.com/practice/files/2013/09/USB-University-diag-4-lrg.jpg*
+pic: [source is here](http://www.techdesignforums.com/practice/files/2013/09/USB-University-diag-4-lrg.jpg*) 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
