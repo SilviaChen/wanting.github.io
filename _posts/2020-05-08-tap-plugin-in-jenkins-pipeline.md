@@ -11,9 +11,13 @@ categories: Software Technical Note
         step([$class: “TapPublisher”, testResults: “*.tap”])
     }
     ```
+   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 2. Automatically generate related options at Sidebar Link
    ![Sidebar Link](/assets/images/side_bar.png)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 3. Result
    1. TAP result #1

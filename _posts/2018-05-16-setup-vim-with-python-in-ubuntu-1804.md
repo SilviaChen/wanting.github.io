@@ -6,6 +6,7 @@ categories: Software Technical Note
 
 I referred some blogger articles to setup my vim for python, and this is just a note recording my steps:
 
+&nbsp;&nbsp;&nbsp;
 
 ## 1. Prepare
 
@@ -46,6 +47,7 @@ then you will get 'pydiction' directory
 # vim ~/.vimrc
 ```
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 2. Python IDE
 
@@ -59,6 +61,8 @@ then you will get 'pydiction' directory
 
 #### Configure ~/.vimrc(2/2)
 > The '~/.vimrc' is a new file, not a default, you can refer other configuration to customize your vim:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## DONE
 
