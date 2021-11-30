@@ -17,7 +17,7 @@ Recently, I switch to research/web application industry. Love and believe the se
 
 
 ![@Poplar, in May 2021]({{ page.image | relative_url }})
-
+@Poplar, in May 2021
 
 
 
